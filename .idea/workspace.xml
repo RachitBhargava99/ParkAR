@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ea05473-a679-4020-8866-7d703a19f167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/__tests__/App-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/java/com/virosample/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/java/com/virosample/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/keystores/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/keystores/debug.keystore.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/bin/ViroFBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/index.android.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/index.ios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample-tvOS/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample-tvOSTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample.xcodeproj/xcshareddata/xcschemes/ViroSample-tvOS.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample.xcodeproj/xcshareddata/xcschemes/ViroSample.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSample/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSampleTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/ios/ViroSampleTests/ViroSampleTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/Components/Arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/Components/ArrowGenerator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/HelloWorldScene.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/HelloWorldSceneAR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/Helpers/PathGetter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/res/arrow.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/js/res/arrow.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/rn-cli.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViroSample/setup-ide.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jLlgJhy0URVpUycKfQX2r0805A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ViroSample/gen" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ViroSample/gen" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/Components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ea05473-a679-4020-8866-7d703a19f167" name="Default Changelist" comment="" />
+      <created>1603591362864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603591362864</updated>
+      <workItem from="1603591364085" duration="24712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="280" width="604" height="490" key="find.popup" timestamp="1603608720976">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="538" y="280" width="604" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603608720976" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1603606421617">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1603606421617" />
+  </component>
+</project>
